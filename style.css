@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'BMJUA';
+    font-family: '210 cracker';
     font-weight: normal;
     font-style: normal;
-    src: url('https://github.com/TAKGi/test/0.1/master/BMJUA_ttf.eot');
-    src: url('https://github.com/TAKGi/test/0.1/master/BMJUA_ttf.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/TAKGi/test/0.1/master/BMJUA.woff') format('woff'),
-         url('https://github.com/TAKGi/test/0.1/master/BMJUA.ttf') format('truetype'),
-         url('https://github.com/TAKGi/test/0.1/master/BMJUA.svg#BMJUA') format('svg');
+    src: url('https://github.com/TAKGi/rrangyang/blob/master/210-cracker-R.eot');
+    src: url('https://github.com/TAKGi/rrangyang/blob/master/210-cracker-R.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/TAKGi/rrangyang/blob/master/210-cracker-R.woff') format('woff'),
+         url('https://github.com/TAKGi/rrangyang/blob/master/210-cracker-R.ttf') format('truetype'),
+         url('https://github.com/TAKGi/rrangyang/blob/master/210-cracker-R.svg#210 cracker') format('svg');
 }
